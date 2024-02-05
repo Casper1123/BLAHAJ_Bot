@@ -1,4 +1,4 @@
-###A BLÅHAJ BOT BECAUSE I FELT LIKE IT
+### A BLÅHAJ BOT BECAUSE I FELT LIKE IT
 The idea has been done before but I wanted to make this so get real.
 
 I honestly wanted to credit all the sources I got the images from but I.. have sadly lost those. Please message me if you would like to be credited.
