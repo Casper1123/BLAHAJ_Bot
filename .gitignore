@@ -1,5 +1,5 @@
 .idea
 __pycache__
 .git
-.gitattributes
-.json
+constants.json
+constants.json
