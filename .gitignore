@@ -2,4 +2,4 @@
 __pycache__
 .git
 .gitattributes
-constants.json
+.json
