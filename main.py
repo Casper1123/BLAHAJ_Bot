@@ -8,7 +8,8 @@ import random
 
 class MySlashBot(commands.Bot):
     def __init__(self) -> None:
-        super().__init__(command_prefix="-blahaj_admin", intents=discord.Intents.all(), help_command=None)
+        intents = discord.Intents()
+        super().__init__(command_prefix="-blahaj_admin", intents=intents, help_command=None)
 
     async def setup_hook(self) -> None:
         MainCog = MySlashCog(self)
