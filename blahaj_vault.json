@@ -170,5 +170,9 @@
   {
     "message": "BLAHAJ is getting beaten to death.",
     "imageName": "molestation.png"
+  },
+  {
+	"message": "BLAHAJ is at a family gathering, getting ready for dinner.",
+	"imageName": "dinnertime.jpg"
   }
 ]
