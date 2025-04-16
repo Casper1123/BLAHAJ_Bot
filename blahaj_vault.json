@@ -174,5 +174,37 @@
   {
 	"message": "BLAHAJ is at a family gathering, getting ready for dinner.",
 	"imageName": "dinnertime.jpg"
+  },
+  {
+    "message": "Finn is having a nice and polite conversation with a piggy.",
+    "imageName": "conversing.jpg"
+  },
+  {
+    "message": "Finnegan is nuzzling a sheppy.",
+    "imageName": "nom.jpg"
+  },
+  {
+    "message": "Finn and Finnegan are chilling.",
+    "imageName": "chilling.jpg"
+  },
+  {
+    "message": "Finnegan is cuddling a sheppy.",
+    "imageName": "cuddle.jpg"
+  },
+  {
+    "message": "PIMTZA",
+    "imageName": "pimtza.png"
+  },
+  {
+    "message": "BLAHAJ is about to go for a wash.",
+    "imageName": "bathtime2.png"
+  },
+  {
+    "message": "BLAHAJ has been sealed.",
+    "imageName": "packaged.png"
+  },
+  {
+    "message": "BLAHAJ makes universal friends.",
+    "imageName": "golem.png"
   }
 ]
